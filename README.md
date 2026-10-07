@@ -10,6 +10,7 @@ The example follows a small adverse-event summary through requirements, code, te
 This is an independent teaching repository. It is not affiliated with, sponsored by, or approved by any company, research sponsor, healthcare organization, or regulatory body.
 
 ## Choose how to use the workshop
+*****
 
 The owned reference is [johnsont1693/scientific-workflow-workshop](https://github.com/johnsont1693/scientific-workflow-workshop). It is a **private, read-only reference for learners**: authorized read access is required to view or clone it. Read access does not grant permission to push, create issues, or open exercise pull requests there.
 
