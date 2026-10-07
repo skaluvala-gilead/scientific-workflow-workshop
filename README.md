@@ -14,6 +14,7 @@ This is an independent teaching repository. It is not affiliated with, sponsored
 The owned reference is [johnsont1693/scientific-workflow-workshop](https://github.com/johnsont1693/scientific-workflow-workshop). It is a **private, read-only reference for learners**: authorized read access is required to view or clone it. Read access does not grant permission to push, create issues, or open exercise pull requests there.
 
 For both labs, use a separate **writable, organization-approved work repository** supplied by your facilitator or administrator:
+hello
 
 - Use your organization-approved GitHub identity and the access granted for that work repository.
 - For Enterprise Managed Users, an authorized administrator or facilitator stages an internal copy in the approved organization. Do not rely on access to the external reference.
